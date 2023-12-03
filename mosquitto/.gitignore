@@ -1,0 +1,6 @@
+data/mosquitto.db
+log/mosquitto.log
+config/
+venv/
+data
+log
